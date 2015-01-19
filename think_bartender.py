@@ -10,7 +10,7 @@
 #			qst_cst = []
 #			qst_cst.append(question_to_customers)
 
-def stye_of_drink():
+#def stye_of_drink():
 
 
 #Function to ask what style of drink a customer likes
